@@ -1,7 +1,7 @@
 {
     "name": "nzn-challenges",
     "version": "1.0.0",
-    "main": "find-index-success-.js",
+    "main": "searchTarget.js",
     "private": true,
     "scripts": {
       "test": "jest"
